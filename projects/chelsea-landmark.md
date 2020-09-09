@@ -4,7 +4,9 @@ year: 2019
 title: Einstein's Beach
 category: Identity
 thumbnail: ''
-categories: []
+categories:
+- beach
+- game
 project_bg_color: ''
 project_fg_color: ''
 
